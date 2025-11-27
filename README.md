@@ -26,6 +26,7 @@ Design features include:
 - Rear doors for the backbox and cabinet, with a pull-out computer shelf that slides out from the latter
 - "Floating" power and audio shelves. The shelves are not screwed into either side of the cabinet. Rather, they have three blocks on either side to keep them in place with foam weatherstrip so they don't slide around and vibrate. This floating design should in theory improve SSF performance by allowing the sides of the cabinet to vibrate more freely without the shelves pinning them down.
 - [Cable raceways](https://www.amazon.ca/dp/B0CRH53YQP) to help keep the wiring nice and clean
+- A plywood cut plan. You'll need one sheet of 3/4" and one sheet of 1/2". This is *just* enough as I've included pieces like the playfield monitor support and translite monitor support that mjr does not include in his plans.
 
 > [!NOTE]
 > The model doesn't show 100% of these features accurately at the present time but it will get there eventually.
