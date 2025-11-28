@@ -8,11 +8,10 @@
 
 ## Description
 
-This is a relatively complete model of a full scale Williams' standard body pinball cabinet (20.5 inches of internal width) adapted for use as a virtual pinball cabinet. 
-It is designed around these components:
+This is a relatively complete model of a full scale Williams' standard body pinball cabinet (20.5 inches of internal width) adapted for use as a virtual pinball cabinet. It is designed around these components:
 
-- an LG C2 42" OLED television as the main playfield display. Newer LG C-series TV's have very similar dimensions and could likely be used as well with little to no modifications.
-- an HP Z30i 30" LCD Monitor for the translite display. I went this route because its 4:3 display ratio is a very close match to that of a real translite.
+- an LG C2 42" OLED television as the main playfield display. Newer LG C-series TV's have very similar dimensions and could likely be used as well with little to no modifications. You'll need to either [decase the TV](https://www.vpforums.org/index.php?showtopic=51446) or cut away the bump for its IR Receiver so it will fit.
+- an HP Z30i 30" LCD Monitor for the translite display. I went this route because its 4:3 display ratio is a very close match to that of a real translite. The backbox is standard width so you could fit a smaller but more modern 16:9 1080p display in there as well.
 - a bare [15.6 LP156WF6-SPB1 1080p LCD display](https://www.aliexpress.com/item/1005004859062249.html) with [compatible controller](https://www.aliexpress.com/item/4001312799490.html). Any display of this size would work. I chose this one after some research because it has excellent color, brightness, and off-angle viewing.
 
 ## Features
