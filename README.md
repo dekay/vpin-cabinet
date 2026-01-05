@@ -66,8 +66,8 @@ Besides the above, the parts of the model I added to what I was given look like 
 
 - The backbox hinges don't currently line up with the metal plate above it inside the backbox
 - Verify height of leg brackets because of glue blocks
-- Change shelf supports to the floating design and remove the shock absorbing material currently under the shelf
-- Clean up power shelf
+- ~~Change shelf supports to the floating design and remove the shock absorbing material currently under the shelf~~
+- ~~Clean up power shelf~~
 - Show LEDs behind cabinet
 - Finalize sub design. Currently 8". Move to 6" and put in a tuned box for better sound?
 - Consider channels for LED strips
