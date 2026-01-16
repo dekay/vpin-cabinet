@@ -3,8 +3,13 @@
 
 # A FreeCAD Model of a Virtual Pinball Cabinet
 
+![VPin Cabinet and Cut Plan in FreeCAD](images/vpin-cabinet.jpg)
+
 > [!WARNING]
 > **Use at your own risk**. The wood has been cut but I have not built this cabinet as of yet. There are some things I know need to be fixed and what is almost certainly other surprises waiting for me to discover. Having said that, it seems to be hanging together *really well* so far.
+
+> [!IMPORTANT]
+> The first time you load this file, FreeCAD might ask you after a long load time that a Recompute is required. Let it do so but Beware! This can take a ~~long time~~ very long time. Like around 10 minutes on a Thinkpad Gen 1 AMD Laptop running Windows and FreeCAD 1.2.0dev. You *will* think that FreeCAD has locked up because it will stop processing input events, and the screen will turn grey if you try to interact with the program. This is FreeCAD doing FreeCAD things. Keep the faith and let it do its thing! Your patience will (eventually) be rewarded. Why it does this, I have no idea.  How this can be avoided, I don't know. But I *do know* that as long as you save the file when the program comes back, it won't need to recompute the file the next time you open it.
 
 ## Description
 
@@ -36,7 +41,7 @@ One of my goals in this project was to minimize borders around the various displ
 
 I'm also a symmetry freak. For example, the bottom bezel of the LG C2 is 10mm vs the 6mm on the other three sizes. I've chosen to center the displayable area in the cab and not the monitor itself. This makes more work but it is going to look *great*: the displayable area lines up with the cabinet siderails almost perfectly. Another example is the speaker panels, where I'm trying to make the rectangular cutouts as wide as possible to show the LED effects off better while at the same time keeping even spacing between everything on there.
 
-This model is built using FreeCAD 1.1dev from fall 2025. It should still open up on older version (like 1.0.2 stable as of time of writing) but you might see a lot of errors spew in the console.
+This model is built using FreeCAD 1.2dev from January 2026. It should still open up on older version (like 1.0.2 stable as of time of writing) but you might see a lot of errors spew in the console. Live on the edge, treat FreeCAD like a rolling release, and give the weekly releases a shot.
 
 # Known issues and TO-DOs
 
