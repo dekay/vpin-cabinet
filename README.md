@@ -59,7 +59,7 @@ The glue blocks used in the model are not standard pinball machine construction 
 
 Being the noob woodworker that I am, I blithely assumed that 3/4" thick plywood is 3/4" thick and that 1/2" plywood is (suspenseful music plays) 1/2" thick. It isn't. 3/4" plywood where I live is actually 18mm thick (0.707") and 1/2" is 11.8mm thick (0.464" thick). And this, I realized later, is why mjr's plans have his cabinet at 20.5" wide on the inside but only 21 7/8" wide on the outside. Grrrr. Currently this discrepancy is baked into the model everywhere except the speaker panel and it will take a fair bit of effort to clean it up. In the meantime, that discrepancy hits in the following ways:
 
-- the sides of the backbox will be too long by about 0.083. It doesn't sound like much but that is well over a 16th of an inch
+- the sides of the backbox will be too long by about 0.083". It doesn't sound like much but that is well over a 16th of an inch
 - some other places I can't remember right now :-(
 
 ### FreeCAD Foibles
