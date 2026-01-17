@@ -12,6 +12,7 @@
 - Cleaned up some errors that the Recompute function was finding. It doesn't make the recompute any faster, but at least the errors are gone :-(
 - ZK-TB21s and isolators are now moved to the underside of the Controller Shelf. They are currently defying gravity and hanging in mid-air but the intention is to design up some 3D printed brackets for these too. I have a few ideas on that.
 - Added a picture of this thing to the Readme page. Finally.
+- Got the leg braces in the proper orientation. One pair was upside down
 - Note that the Controller Shelf at 8.5" deep looks like it could be trimmed down a couple inches. I think this will end up being the case but leaving my options open for now.
 
 **2026-01-04**
