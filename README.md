@@ -47,6 +47,11 @@ This model is built using FreeCAD 1.2dev from January 2026. It should still open
 
 ## Known Issues
 
+> [!WARNING]
+> Fail to read this and you won't be able to attach the legs to your cabinet.
+
+The glue blocks used in the model are not standard pinball machine construction so the four leg braces sit just a bit higher from the bottom of the cab than a real machine. But only by a small amount. The solution is to offset the drill guide for the leg bolts **up** a bit to compensate. Setting the drill guide just 1/4" up from the bottom of the cab for a cabinet floor that is 1/2" thick is plenty. Drill the holes with that offset and the leg braces should have plenty of clearance inside the cab. WotW [ran into the same issue in his build](https://www.youtube.com/watch?v=fShlTZdITHg&list=PLrqlHbqP7FIO5P8e8HtrBB01xqQtAWpJ5&t=97s) and demonstrates the workaround.
+
 ### Plywood is Hard
 
 > [!IMPORTANT]
@@ -70,7 +75,6 @@ Besides the above, the parts of the model I added to what I was given look like 
 ## Model TO-DOs
 
 - The backbox hinges don't currently line up with the metal plate above it inside the backbox
-- Verify height of leg brackets because of glue blocks
 - ~~Change shelf supports to the floating design and remove the shock absorbing material currently under the shelf~~
 - ~~Clean up power shelf~~
 - Show LEDs behind cabinet
