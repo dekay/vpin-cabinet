@@ -88,7 +88,6 @@ Besides the above, the parts of the model I added to what I was given look like 
 
 - Link to more of the parts I've used
 - Write up some resources on learning FreeCAD
-- Add some images of this thing!!!
 
 # Shout-Outs & Credits
 
